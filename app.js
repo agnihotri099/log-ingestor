@@ -22,7 +22,12 @@ api1.initialize();
 // res.sendFile(__dirname + '/public/index.html');
 // });
 
+app.get('/', (req, res) => {
+    res.send('Hello, world!');
+  });
+
 // Handle search requests
+
 app.post('/search', (req, res) => {
     const { level, log_string, timestamp, source, fromDate, toDate, useRegex } = req.body;
     const logFiles = Object.values(loggingConfig).map(config => config.filePath);
