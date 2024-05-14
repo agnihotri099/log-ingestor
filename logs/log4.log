@@ -1,0 +1,5 @@
+{"level":"info","log_string":"Cache cleared","timestamp":"2024-05-14T09:10:00.654Z","metadata":{"source":"log4.log"}}
+{"level":"error","log_string":"File not found","timestamp":"2024-05-14T10:20:20.987Z","metadata":{"source":"log4.log"}}
+{"level":"info","log_string":"API endpoint accessed","timestamp":"2024-05-14T11:35:35.123Z","metadata":{"source":"log4.log"}}
+{"level":"success","log_string":"Data fetched successfully","timestamp":"2024-05-14T12:40:45.456Z","metadata":{"source":"log4.log"}}
+{"level":"info","log_string":"Request received","timestamp":"2024-05-14T13:55:55.789Z","metadata":{"source":"log4.log"}}

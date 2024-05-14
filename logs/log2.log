@@ -1,0 +1,4 @@
+{"level":"info","log_string":"API 2 initialized","timestamp":"2024-05-14T01:45:24.429Z","metadata":{"source":"log2.log"}}
+{"level":"info","log_string":"User logged in","timestamp":"2023-09-15T08:05:00Z","metadata":{"source":"log2.log"}}
+{"level":"success","log_string":"Data saved successfully","timestamp":"2023-09-15T08:06:00Z","metadata":{"source":"log2.log"}}
+{"level":"error","log_string":"Invalid input","timestamp":"2023-09-15T08:07:00Z","metadata":{"source":"log2.log"}}

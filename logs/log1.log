@@ -1,0 +1,25 @@
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T01:45:24.427Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:03:01.836Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:09:00.821Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:09:29.134Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:10:29.349Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:11:43.695Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"Request received","timestamp":"2023-09-15T08:01:00Z","metadata":{"source":"log1.log"}}
+{"level":"error","log_string":"Internal server error","timestamp":"2023-09-15T08:02:00Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"Request processed successfully","timestamp":"2023-09-15T08:03:00Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:16:10.918Z","metadata":{"source":"log1.log"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:18:08.776Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T02:31:53.575Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T03:26:25.842Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T03:27:25.010Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T03:28:12.997Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T03:40:05.526Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T03:44:58.634Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T12:07:57.727Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T12:13:49.347Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T14:42:50.098Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T14:44:38.219Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T14:47:50.235Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T14:55:12.765Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T15:00:53.370Z","metadata":{"source":"api1"}}
+{"level":"info","log_string":"API 1 initialized","timestamp":"2024-05-14T15:03:36.030Z","metadata":{"source":"api1"}}

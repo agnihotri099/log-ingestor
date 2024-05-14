@@ -1,0 +1,5 @@
+{"level":"info","log_string":"User authentication successful","timestamp":"2024-05-14T10:25:00.123Z","metadata":{"source":"log3.log"}}
+{"level":"error","log_string":"Database connection failed","timestamp":"2024-05-14T11:30:15.987Z","metadata":{"source":"log3.log"}}
+{"level":"info","log_string":"Data processing started","timestamp":"2024-05-14T12:45:30.456Z","metadata":{"source":"log3.log"}}
+{"level":"success","log_string":"Data processed successfully","timestamp":"2024-05-14T13:15:40.789Z","metadata":{"source":"log3.log"}}
+{"level":"info","log_string":"User logout","timestamp":"2024-05-14T14:20:50.234Z","metadata":{"source":"log3.log"}}
